@@ -2,7 +2,7 @@
 
 **一键把照片转换为吉卜力、梵高、动漫等多种艺术风格——操作简单**
 
-网址：**[https://baidu.com](https://baidu.com)**
+网址：**[https://style2fun.com](https://style2fun.com)**
 
 ---
 
@@ -14,11 +14,7 @@ Style2Fun.com 是一款功能强大的在线AI艺术风格转换工具。无论�
 
 ## 🖼️ 工具页面截图预览
 、
-
-**主界面/操作流程示例：**
-![Style2Fun.com 主界面或操作流程](![image](https://github.com/user-attachments/assets/757f009a-59b3-449e-9f3d-52869428ab06)
- "Style2Fun.com 简洁的操作界面")
-
+![image](https://github.com/user-attachments/assets/7ba011d8-6442-4385-b03c-f417c45cab09)
 
 ---
 
