@@ -1,6 +1,6 @@
-# Style2Fun.com：免费的 ChatGPT 吉卜力 AI 生成器, 多种免费风格转换 🎨🖌️✨
+![image](https://github.com/user-attachments/assets/f6f03415-fed9-48bd-ab6a-603650574c3e)# 推荐一款免费的在线吉卜力风格转换工具，免费的 ChatGPT 吉卜力 AI 生成器, 多种免费风格转换 🎨🖌️✨
 
-**轻松将您的照片转换为吉卜力、梵高、动漫等多种艺术风格——操作简单，风格百变！**
+**一键把照片转换为吉卜力、梵高、动漫等多种艺术风格——操作简单**
 
 网址：**[https://baidu.com](https://baidu.com)**
 
@@ -13,6 +13,7 @@ Style2Fun.com 是一款功能强大的在线AI艺术风格转换工具。无论�
 ---
 
 ## 🖼️ 工具页面截图预览
+![Uploading image.png…]()
 
 
 **主界面/操作流程示例：**
