@@ -2,7 +2,7 @@
 
 **轻松将您的照片转换为吉卜力、梵高、动漫等多种艺术风格——操作简单，风格百变！**
 
-**[➡️ 前往 Style2Fun.com 体验 ⬅️](https://baidu.com)**
+网址：**[https://baidu.com](https://baidu.com)**
 
 ---
 
