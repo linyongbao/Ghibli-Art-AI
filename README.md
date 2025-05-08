@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f6f03415-fed9-48bd-ab6a-603650574c3e)# 推荐一款免费的在线吉卜力风格转换工具，免费的 ChatGPT 吉卜力 AI 生成器, 多种免费风格转换 🎨🖌️✨
+# 【工具自荐】推荐自研的一款免费的在线吉卜力风格转换工具，免费的 ChatGPT 吉卜力 AI 生成器, 包含多种免费风格转换 🎨🖌️✨
 
 **一键把照片转换为吉卜力、梵高、动漫等多种艺术风格——操作简单**
 
@@ -13,19 +13,12 @@ Style2Fun.com 是一款功能强大的在线AI艺术风格转换工具。无论�
 ---
 
 ## 🖼️ 工具页面截图预览
-![Uploading image.png…]()
-
+、
 
 **主界面/操作流程示例：**
-![Style2Fun.com 主界面或操作流程](URL_TO_YOUR_IMAGE_1_HERE "Style2Fun.com 简洁的操作界面")
+![Style2Fun.com 主界面或操作流程](![image](https://github.com/user-attachments/assets/757f009a-59b3-449e-9f3d-52869428ab06)
+ "Style2Fun.com 简洁的操作界面")
 
-**风格转换效果示例 (例如：吉卜力风格):**
-| 原始图片 | 吉卜力风格转换后 |
-| :------: | :------------: |
-| ![原始图片示例](URL_TO_YOUR_ORIGINAL_IMAGE_EXAMPLE_HERE "待转换的原始图片") | ![吉卜力风格效果图](URL_TO_YOUR_GHIBLI_STYLED_IMAGE_HERE "吉卜力风格转换效果") |
-
-**更多风格展示 (例如：梵高风格或其他):**
-![梵高或其他风格效果图](URL_TO_YOUR_ANOTHER_STYLED_IMAGE_HERE "梵高或其他艺术风格转换效果")
 
 ---
 
@@ -44,4 +37,4 @@ Style2Fun.com 是一款功能强大的在线AI艺术风格转换工具。无论�
 
 无论是社交媒体分享、个性化头像制作，还是寻找设计灵感，StyleFun.com 都能为您带来惊喜，让您的照片焕发新生，尽享风格转换的乐趣！
 
-**立即访问：[https://stylefun.com/](https://stylefun.com/)**
+**立即访问：[https://style2fun.com/](https://style2fun.com/)**
